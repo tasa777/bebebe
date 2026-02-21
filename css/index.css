@@ -196,8 +196,7 @@ header.global .logotype {
 main > .front-page {
   width: 100%;
   height: 100vh;
-  background: white;
-  /* background: radial-gradient(circle, rgb(66, 68, 44) 0%, rgb(9, 5, 32) 100%); */
+  background: radial-gradient(circle, rgb(66, 68, 44) 0%, rgb(9, 5, 32) 100%); */
 }
 main > .front-page article {
   display: flex;
